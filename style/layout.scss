@@ -1,0 +1,23 @@
+.choose-flag-wrapper {
+  padding: rem(10px);
+
+  .flags {
+    box-shadow: rem(4px) rem(4px) rem(9px) rem(2px) #6A6A6A;
+    width: rem(300px);
+
+    &-search {
+      display: block;
+      margin-bottom: rem(15px);
+      width: rem(200px);
+    }
+
+    &-item-wrapper {
+      text-align: center;
+    }
+  }
+
+  button {
+    margin: rem(15px) 0 rem(15px) 0;
+  }
+}
+
