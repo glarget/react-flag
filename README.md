@@ -1,6 +1,6 @@
-# Projet permettant de choisir un flag de pays et de visualiser le nombre de population le jour-même et le jour d'après
+## Projet permettant de choisir un flag de pays et de visualiser le nombre de population le jour-même et le jour d'après
 
-# === languages && outils  ===
+## === languages && outils  ===
 -  react / redux (gestion des middleware avec redux thunk)
 -  sass / sass-rem / Bootstrap CDN
 -  ES6
